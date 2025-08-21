@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Fullstack engineer from Germany</h3>
+<h3 align="center">Full stack engineer from Germany</h3>
 
 I like to build products with Python and Svelte. I'm the founder of [LemonSpeak](lemonspeak.com), which I discontinued end of 2024. It didn't scale.
 
