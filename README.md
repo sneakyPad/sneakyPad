@@ -17,8 +17,8 @@ I like to build products with Python and Svelte. I'm the founder of [LemonSpeak]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paer06" height="30" width="40" /></a>
-<a href="https://patrickm.de/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rssfeed" height="30" width="40" /></a>
+<a href="https://twitter.com/paer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paer06" height="20" width="30" /></a>
+<a href="https://patrickm.de/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rssfeed" height="20" width="30" /></a>
 </p>
 
 
