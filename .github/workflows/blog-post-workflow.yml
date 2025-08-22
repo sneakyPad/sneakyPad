@@ -16,6 +16,6 @@ jobs:
           feed_list: "https://patrickm.de/rss/"
           custom_tags: "postId/guid/"
           date_format: "mmm d, yyyy"
-          template: '[$title]($url)'
+          template: "- [$title]($url)$newline"
           committer_email: "github-actions[bot]@users.noreply.github.com"
           committer_username: "github-actions[bot]"
