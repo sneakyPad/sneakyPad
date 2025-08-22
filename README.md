@@ -5,7 +5,7 @@ I like to build products with Python and Svelte. I'm the founder of [LemonSpeak]
 
 
 - 🌱 Most of the time I read about **software design**, **architecture**, **knowledge graphs**, and **data privacy**.
-- 📝 From time to time I write blog posts on [patrickm.de](patrickm.de)
+- 📝 From time to time I write blog posts on [patrickm.de](https://patrickm.de)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
