@@ -7,7 +7,7 @@ I like to build products with Python and Svelte. I'm the founder of [LemonSpeak]
 - 🌱 Most of the time I read about **software design**, **architecture**, **knowledge graphs**, and **data privacy**.
 - 📝 From time to time I write blog posts on [patrickm.de](patrickm.de)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->- [Pytest Fixtures: How to Use &amp; Organize them in your Test Architecture](https://patrickm.de/pytest-fixtures-how-to-use-organize-them-in-your-test-architecture/)
 - [Why I practice TDD and how it can help you too](https://patrickm.de/why-tdd/)
 - [Why Celery Tasks trigger signals twice](https://patrickm.de/why-celery-tasks-trigger-signals-twice/)
