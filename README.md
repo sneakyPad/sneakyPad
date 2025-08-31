@@ -9,11 +9,11 @@ I like to build products with Python and Svelte. I'm the founder of [LemonSpeak]
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [🍋 Pytest Fixtures: How to Use &amp; Organize them in your Test Architecture](https://patrickm.de/pytest-fixtures-how-to-use-organize-them-in-your-test-architecture/)
- - [🏄🏼‍♂️ Why I practice TDD and how it can help you too](https://patrickm.de/why-tdd/)
- - [💫 Why Celery Tasks trigger signals twice](https://patrickm.de/why-celery-tasks-trigger-signals-twice/)
- - [🌊 Pytest Fixtures: Einführung, Nutzung &amp; Organisation in deiner Testarchitektur](https://patrickm.de/pytest-fixtures-einfuehrung/)
- - [🚀 Warum ich TDD praktiziere und wie es auch dir helfen kann](https://patrickm.de/warum-tdd/)<!-- BLOG-POST-LIST:END -->
+ - [🍋 The LLM Hype Train: A Pamphlet[?] You Should Read With Your Manager](https://patrickm.de/llm-hypetrain-pamphlet/)
+ - [🏄🏼‍♂️ Pytest Fixtures: How to Use &amp; Organize them in your Test Architecture](https://patrickm.de/pytest-fixtures-how-to-use-organize-them-in-your-test-architecture/)
+ - [💫 Why I practice TDD and how it can help you too](https://patrickm.de/why-tdd/)
+ - [🌊 Why Celery Tasks trigger signals twice](https://patrickm.de/why-celery-tasks-trigger-signals-twice/)
+ - [🚀 Pytest Fixtures: Einführung, Nutzung &amp; Organisation in deiner Testarchitektur](https://patrickm.de/pytest-fixtures-einfuehrung/)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
