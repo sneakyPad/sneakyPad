@@ -9,11 +9,11 @@ I like to build products with Python and Svelte. I'm the founder of [LemonSpeak]
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [🍋 When is a knowledge graph open or closed world? And how to create a company wide implementation strategy](https://patrickm.de/knowledge-graph-open-or-closed-world/)
- - [🏄🏼‍♂️ The LLM Hype Train: A Pamphlet[?] You Should Read With Your Manager](https://patrickm.de/llm-hypetrain-pamphlet/)
- - [💫 Pytest Fixtures: How to Use &amp; Organize them in your Test Architecture](https://patrickm.de/pytest-fixtures-how-to-use-organize-them-in-your-test-architecture/)
- - [🌊 Why I practice TDD and how it can help you too](https://patrickm.de/why-tdd/)
- - [🚀 Why Celery Tasks trigger signals twice](https://patrickm.de/why-celery-tasks-trigger-signals-twice/)<!-- BLOG-POST-LIST:END -->
+ - [🍋 How I build internal developer tools inside a small team](https://patrickm.de/building-internal-dev-tools/)
+ - [🏄🏼‍♂️ When is a knowledge graph open or closed world? And how to create a company wide implementation strategy](https://patrickm.de/knowledge-graph-open-or-closed-world/)
+ - [💫 The LLM Hype Train: A Pamphlet[?] You Should Read With Your Manager](https://patrickm.de/llm-hypetrain-pamphlet/)
+ - [🌊 Pytest Fixtures: How to Use &amp; Organize them in your Test Architecture](https://patrickm.de/pytest-fixtures-how-to-use-organize-them-in-your-test-architecture/)
+ - [🚀 How bugs made me believe in TDD](https://patrickm.de/why-tdd/)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
