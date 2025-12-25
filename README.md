@@ -9,7 +9,7 @@ I like to build products with Python and Svelte. I'm the founder of [LemonSpeak]
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [🍋 How I build internal developer tools inside a small team](https://patrickm.de/building-internal-dev-tools/)
+ - [🍋 How to build internal developer tools with a small team](https://patrickm.de/building-internal-dev-tools/)
  - [🏄🏼‍♂️ When is a knowledge graph open or closed world? And how to create a company wide implementation strategy](https://patrickm.de/knowledge-graph-open-or-closed-world/)
  - [💫 The LLM Hype Train: A Pamphlet[?] You Should Read With Your Manager](https://patrickm.de/llm-hypetrain-pamphlet/)
  - [🌊 Pytest Fixtures: How to Use &amp; Organize them in your Test Architecture](https://patrickm.de/pytest-fixtures-how-to-use-organize-them-in-your-test-architecture/)
